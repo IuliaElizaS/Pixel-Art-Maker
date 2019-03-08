@@ -1,5 +1,7 @@
 # Pixel Art Maker Project
 
-## Contributing
+This is a project for Udacity Front-End Web Developer Nanodegree Scholarships and has only learning purpose.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Specification:
+
+For this project there is a starting code (that provides the canvas). The students have to develop the starting code and add functionality according to the project rubric.
