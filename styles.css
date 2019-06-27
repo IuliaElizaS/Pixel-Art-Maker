@@ -1,22 +1,20 @@
 /*adds background and style to the body*/
 body {
     text-align: center;
-    background-image: url("http://www.powerpointhintergrund.com/uploads/brick-wall-background-31.jpg");
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("abstract-3200407_1920.jpg");
     background-size: cover;
 }
 
 /*adds style to the text*/
 h1 {
     font-family: Monoton;
-    font-size: 70px;
+    font-size: 50px;
     margin: 0.2em;
-    color: #deb887;
+    color: #317067;
 }
 
 h2 {
-    margin: 1em 16em 0.25em;
-    background: #deb887;
-    border-radius: 5px;
+    font-size: 20px;
     font-weight: bold;
 }
 
@@ -25,7 +23,7 @@ h2:first-of-type {
 }
 
 span {
-    background-color: #deb887;
+    background-color: #bde34d;
     font-weight: bold;
 }
 
@@ -37,12 +35,12 @@ input[type=number] {
 input[type=submit] {
      width: 8em;
      font-weight: bold;
-     background-color: #deb887;
+     background-color: #bde34d;
 }
 
 /*adds style to the canvas*/
 table {
-    border: 5px solid #a0522d;
+    border: 2px solid #69a176;
     border-collapse: collapse;
     box-shadow: 0px 10px 21px 3px #ded7de;
     margin: 0 auto;
